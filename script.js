@@ -1,4 +1,4 @@
-/ Function to open sidebar menu
+// Function to open sidebar menu
 function openSidebar() {
     document.getElementById("sidebar").style.width = "250px"; 
     document.body.classList.add("sidebar-open"); // Prevent scrolling
